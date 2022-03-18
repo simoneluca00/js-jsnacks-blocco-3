@@ -46,7 +46,22 @@ do {
     i++
 } while (i < n);
 
+// ------------------------------------ CORREZIONE ALTERNATIVA ------------------------------------ //
 
+// const x = parseInt(prompt("inserisci numero"));
+
+// let y = 0;
+
+// while (y < x) {
+//     let newArray = [];
+
+//     for ( let z = 0; z < 10; z++ ) {
+//         newArray.push( Math.floor(Math.random() * 100) +1 );
+//     }
+
+//     console.log( newArray );
+//     y++
+// }
 
 
 
